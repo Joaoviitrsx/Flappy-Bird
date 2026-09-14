@@ -2,8 +2,6 @@
 
 Um clone do clássico *Flappy Bird*, construído do zero com **JavaScript puro (Vanilla JS)**, manipulação direta do DOM e CSS puro — sem frameworks, sem bibliotecas de jogo.
 
-![Flappy Bird preview](./imgs/preview.png)
-
 ## 🎮 Sobre o projeto
 
 Este projeto foi desenvolvido como exercício prático para consolidar conceitos fundamentais de JavaScript e manipulação de DOM: criação dinâmica de elementos, closures, `requestAnimationFrame`/`setInterval` para loops de jogo, detecção de colisão (AABB) e gerenciamento de estado sem nenhuma lib externa.
